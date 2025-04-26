@@ -1,9 +1,13 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Projects
+permalink: /projects/
 ---
 
-Aotearoa Blue Ocean Research is a fundamental and applied research consultancy with a focus on open ocean biogeochemical modelling. 
-      It is a registered research organisation in New Zealand with a variety of contracts from both government and the private sector. We occasionally accept visiting students and host research projects, but cannot grant academic degrees. Please get in touch if you want to discuss project ideas.
+The longevity of airborne microplastic-climate forcing from legacy plastic pollution (2023-2026) 
+Revell L (University of Canterbury, NZ), Evangeliou N (NILU, Norway), Kvale K (ABOR, NZ)
+For this project we are estimating the potential radiative forcing for multiple scenarios of microplastic pollution and climate change over the next century using a combination of experimental and modelling methods.
+
+Metal micronutrients: Major players in the Southern Ocean’s carbon sink. (2023-2026) 
+Stirling C (University of Otago, NZ), Druce M (University of Otago, NZ), Bostock H (University of Queensland, Australia), Swann G (University of Nottingham, UK), Kvale K (ABOR, NZ)
 
