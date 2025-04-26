@@ -4,6 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Aotearoa Blue Ocean Research is a fundamental and applied research consultancy with a focus on open ocean biogeochemical modelling. 
-      It is a registered research organisation in New Zealand with a variety of contracts from both government and the private sector. We occasionally accept visiting students and host research projects, but cannot grant academic degrees. Please get in touch if you want to discuss project ideas.
+Aotearoa Blue Ocean Research is a fundamental and applied research consultancy with a focus on open ocean biogeochemical modelling. It is a registered research organisation in New Zealand with a variety of contracts from both government and the private sector, and maintains collaborations with major international research institutes. We occasionally accept visiting students and host research projects, but cannot grant academic degrees. Please get in touch if you want to discuss project ideas.
 
