@@ -4,5 +4,4 @@
 
 layout: home
 ---
-
-[](IMG_0689.jpeg)
+![](./IMG_0689.jpeg)
