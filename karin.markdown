@@ -7,7 +7,7 @@ I am a global biogeochemical modeller and model developer, ocean and climate sci
 
 In addition to my research I am active in the international ocean science community as an editor for [Ocean-Land-Atmosphere-Research](https://spj.science.org/journal/olar), and serve as a member of the [Surface Ocean Lower Atmosphere Study (SOLAS)](https://www.solas-int.org/) Scientific Steering Committee to 2026. I also contribute advice to the ongoing negotiations of the Global Plastics Treaty via the [Scientists' Coalition for an Effective Plastics Treaty](https://ikhapp.org/scientistscoalition/). I review manuscripts for 20 international scientific journals as well as government-funded grant proposals. I lecture casually at Victoria University Wellington, where you can hear me speak about environmental microplastics.
 
-My work has been covered by media, with some links here:
+**My work has been covered by media, with some links here:**
 
 Microplastics pose risk to ocean plankton, climate, other key Earth systems
 [Mongabay](https://news.mongabay.com/2023/10/microplastics-pose-risk-to-ocean-plankton-climate-other-key-earth- systems/)
