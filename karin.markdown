@@ -26,4 +26,7 @@ Kvale K, Gurgacz N, Eby M, Weaver A (2023) Carbon leaching from plastic pollutio
 
 Kvale K (2022) Microplastics. Invited contribution to [The Climate Book](https://www.amazon.com.au/dp/0241547474?ref_=mr_referred_us_au_nz), Thunberg, G. (ed) Penguin Press, London, UK.
 
+
+[Link to my Google Scholar](https://scholar.google.de/citations?user=7_ZzZC0AAAAJ&hl=en&oi=ao)
+
 [Full curriculum vitae](./cv_Kvale.pdf)
