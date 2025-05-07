@@ -21,7 +21,7 @@
 title: Aotearoa Blue Ocean Research
 email: aotearoablueocean@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Aotearoa Blue Ocean Research is based in beautiful Wellington, New Zealand. I specialise in answering critical environmental and climate research questions using biogeochemical models of the open ocean. I am also an expert in marine-based carbon dioxide removal (mCDR), paleoclimate dynamics, and marine microplastics fate, transport, and ecological impact.
+  Aotearoa Blue Ocean Research is based in beautiful Wellington, New Zealand. I specialise in answering critical environmental and climate research questions using biogeochemical models of the open ocean. I am an expert in marine-based carbon dioxide removal (mCDR), paleoclimate dynamics, and marine microplastics fate, transport, and ecological impact.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: KarinKvale
