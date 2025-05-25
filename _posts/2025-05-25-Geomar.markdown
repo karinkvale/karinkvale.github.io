@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Research visit with GEOMAR Helmholtz Centre for Ocean Research Kiel"
+title:  "Research visit to GEOMAR Helmholtz Centre for Ocean Research Kiel"
 date:   2025-05-25 07:30:21 +0200
 categories: jekyll update
 ---
-Three productive weeks were spent discussing all things ocean biogeochemistry with staff at GEOMAR
+Three productive weeks were spent discussing all things ocean biogeochemistry with staff at GEOMAR in their beautiful new building
 
-<img hspace="10" align="left" width="300" src="https://karinkvale.github.io/processed-0CF9E29C-3363-4182-AA17-5BA2E7CEBB30.jpeg">
+<img hspace="10" align="left" width="300" src="https://karinkvale.github.io/IMG_8211.jpeg">
 
