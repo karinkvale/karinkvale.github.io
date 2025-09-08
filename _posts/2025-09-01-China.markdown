@@ -6,5 +6,5 @@ categories: jekyll update
 ---
 ABOR participated in the China-US Youth Academic Forum on Ecological Environment and Sustainable Development in Tianjin, China, in August. It was an excellent opportunity to network with young researchers from both China and the United States and I am grateful for Nanjing University for their sponsorship of the event.
 
-<img hspace="10" align="left" width="300" src="https://karinkvale.github.io/6.jpg">
+<img hspace="10" align="left" width="300" src="https://karinkvale.github.io/6.jpeg">
 
