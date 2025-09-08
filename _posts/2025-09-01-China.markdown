@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Surface Plastic Remote SEnsing (SPARSE) workshop"
+title:  "China-US Youth Academic Forum on Ecological Environment and Sustainable Development"
 date:   2025-05-30 07:00:21 +0200
 categories: jekyll update
 ---
-ABOR was represented at the SOLAS-sponsored SPARSE workshop in Siena, Italy, in May. It was an excellent opportunity to learn about emerging remote sensing possibilities for marine litter detection. The timing was perfect for developing proposals tailored for the latest Horizon work programme. 
+ABOR participated in the China-US Youth Academic Forum on Ecological Environment and Sustainable Development in Tianjin, China, in August. It was an excellent opportunity to network with young researchers from both China and the United States and I am grateful for Nanjing University for their sponsorship of the event.
 
-<img hspace="10" align="left" width="300" src="https://karinkvale.github.io/2F6EFCDB-1541-4374-9D03-7EA90EB6AADA.jpeg">
+<img hspace="10" align="left" width="300" src="https://karinkvale.github.io/6.jpg">
 
