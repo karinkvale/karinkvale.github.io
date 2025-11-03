@@ -7,6 +7,6 @@ permalink: /students/
 
 Simulation of microplastic fragmentation in an Earth System Model
 
-<h4>Merle Gehlen</h4> *(MSc, University of Oldenburg, Germany) 2025-2026*
+<h4>Merle Gehlen</h4> *(MSc Candidate, University of Oldenburg, Germany) 2025-2026*
 
 Using DOM to globally estimate surfactants
