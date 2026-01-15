@@ -6,7 +6,7 @@ permalink: /projects/
 <h4>Small Plastics in the Ocean’s Interior: coherent Analysis and Synthesis for better
 Scrutiny (SPASS) (2026-2029)</h4>
 *Zhao S (JAMSTEC, Japan), Kvale K (ABOR, NZ), Galgani L (Uni. Siena, Italy), et al.*
-
+<img  hspace="10" align="right" width="200" src="https://karinkvale.github.io/spass_logo.png" alt="lasagna">
 SCOR funded working group to standardise data collection and analysis protocols for ocean microplastics.
 
 <h4>The longevity of airborne microplastic-climate forcing from legacy plastic pollution (2023-2026)</h4>
