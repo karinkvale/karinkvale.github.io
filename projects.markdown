@@ -3,8 +3,14 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+<h4>Harmonising Aquatic Litter Monitoring and Assessment Across EU Waters (CLEAR-WATER) (2026-2030)</h4>
+*Horizon Europe Consortium, multiple partners*
+
+European Commission funded consortium designing litter monitoring and assessment strategy for European marginal seas.
+
+<img  hspace="10" align="right" width="100" src="https://karinkvale.github.io/spass_logo.png" alt="lasagna">
 <h4>Small Plastics in the Ocean’s Interior: coherent Analysis and Synthesis for better
-Scrutiny (SPASS) (2026-2029)</h4>
+Scrutiny (SPASS) (2026-2029)</h4> 
 *Zhao S (JAMSTEC, Japan), Kvale K (ABOR, NZ), Galgani L (Uni. Siena, Italy), et al.*
 
 SCOR funded working group to standardise data collection and analysis protocols for ocean microplastics.
