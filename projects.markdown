@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-<img  hspace="10" align="right" width="200" src="https://karinkvale.github.io/CLEAR-WATER logo.png" alt="lasagna">
+<img  hspace="10" align="right" width="200" src="https://karinkvale.github.io/CLEAR-WATER_logo.png" alt="lasagna">
 <h4>Harmonising Aquatic Litter Monitoring and Assessment Across EU Waters (CLEAR-WATER) (2026-2030)</h4>
 *Horizon Europe Consortium, multiple partners*
 
