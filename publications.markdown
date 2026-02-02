@@ -3,7 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-Kvale K, Somes C, Oschlies A, Landolfi A. (2026) A warming-induced bipolar convection seesaw under CO2 stabilisation. In review Communications Earth & Env. Preprint: https://doi.org/10.21203/rs.3.rs-6995566/v1.
+Kvale K, Somes C, Oschlies A, Landolfi A. (2026) A warming-induced bipolar convection seesaw under CO2 stabilisation. In review Communications Earth & Env. Preprint: [https://doi.org/10.21203/rs.3.rs-6995566/v1](https://doi.org/10.21203/rs.3.rs-6995566/v1).
 
 Hoffmann L, Bach L et al. (60+ authors) SOLAS mCDR MRV working group. (2026) Monitoring, reporting and verification of marine carbon dioxide removal: exploring scientific consensus and divergences across continents. In press with Elementa.
 
