@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-<h4>IPCC Lead Author of 2027 IPCC Methodology Report on Carbon Dioxide Removal Technologies, Carbon Capture, Utilization and Storage for National Greenhouse Gas Inventories (Additional guidance)</h4>
+<h4>IPCC Lead Author of 2027 IPCC Methodology Report on Carbon Dioxide Removal Technologies, Carbon Capture, Utilization and Storage for National Greenhouse Gas Inventories (Additional guidance) (2026-2027)</h4>
 
 Not research, but a project nonetheless!
 
