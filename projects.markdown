@@ -3,6 +3,10 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+<h4>IPCC Lead Author of 2027 IPCC Methodology Report on Carbon Dioxide Removal Technologies, Carbon Capture, Utilization and Storage for National Greenhouse Gas Inventories (Additional guidance)</h4>
+
+Not research, but a project nonetheless!
+
 <img  hspace="10" align="right" width="200" src="https://karinkvale.github.io/CLEAR-WATER_logo.png" alt="lasagna">
 <h4>Harmonising Aquatic Litter Monitoring and Assessment Across EU Waters (CLEAR-WATER) (2026-2030)</h4>
 *Horizon Europe Consortium, multiple partners*
