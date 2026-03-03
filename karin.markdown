@@ -3,11 +3,11 @@ layout: page
 title: Karin Kvale
 permalink: /karin/
 ---
-<img  hspace="10" align="left" width="200" src="https://karinkvale.github.io/3U6A2785-3.jpeg" alt="lasagna">
+<img  hspace="10" align="left" width="200" src="https://karinkvale.github.io/IMG_0323.JPG" alt="lasagna">
 
 I am a global biogeochemical modeller and model developer, ocean and climate scientist with a strong interest in how marine ecosystems are affected by both pollution and climate change. I have a broad background in biological calcification, ecological interactions with open ocean biogeochemistry over paleo timescales, ocean-based climate feedbacks, carbon, nutrient and oxygen cycling and most recently, interactions of microplastics with the base of the ocean food web. 
 
-In addition to my research I am active in the international ocean science community as an editor for [Ocean-Land-Atmosphere-Research](https://spj.science.org/journal/olar), and serve as a member of the [Surface Ocean Lower Atmosphere Study (SOLAS)](https://www.solas-int.org/) Scientific Steering Committee through 2026. I also contribute advice to the ongoing negotiations of the Global Plastics Treaty via the [Scientists' Coalition for an Effective Plastics Treaty](https://ikhapp.org/scientistscoalition/). I review manuscripts for more than 20 international scientific journals as well as government-funded grant proposals. I lecture casually at Victoria University Wellington, where I am an adjunct researcher and you can hear me speak about environmental microplastics.
+In addition to my research I am active in the international ocean science community as an editor for [Ocean-Land-Atmosphere-Research](https://spj.science.org/journal/olar), and serve as a member of the [Surface Ocean Lower Atmosphere Study (SOLAS)](https://www.solas-int.org/) Scientific Steering Committee through 2027. I am a Lead Author for the 2027 IPCC Methodology Report on Carbon Dioxide Removal Technologies, Carbon Capture, Utilization and Storage for National Greenhouse Gas Inventories. I also contribute advice to the ongoing negotiations of the Global Plastics Treaty via the [Scientists' Coalition for an Effective Plastics Treaty](https://ikhapp.org/scientistscoalition/). I review manuscripts for more than 20 international scientific journals as well as government-funded grant proposals. I lecture casually at Victoria University Wellington, where I am an adjunct researcher and you can hear me speak about environmental microplastics.
 
 **My work has been covered by media, with some links here:**
 
