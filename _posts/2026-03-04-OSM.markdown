@@ -6,5 +6,5 @@ categories: jekyll update
 ---
 ABOR was represented at both AGU Ocean Sciences, the premiere ocean sciences conference that brings together the international ocean research community, and a smaller but equally important BioCarbon workshop, focused on constraining the ocean's biological carbon pumps. ABOR research into climate dynamics, microplastics, and fundamental biological carbon storage was presented. 
 
-<img hspace="10" align="left" width="300" src="https://karinkvale.github.io/Biocarbon.pdf">
+<img hspace="10" align="left" width="300" src="https://karinkvale.github.io/Biocarbon.jpg">
 <img hspace="10" align="right" width="300" src="https://karinkvale.github.io/OSM_session.JPG">
