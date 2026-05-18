@@ -30,3 +30,5 @@ Kvale K (2022) Microplastics. Invited contribution to [The Climate Book](https:/
 [Link to my Google Scholar](https://scholar.google.de/citations?user=7_ZzZC0AAAAJ&hl=en&oi=ao)
 
 [Full curriculum vitae](./cv_Kvale.pdf)
+
+Follow me on [Bluesky](https://bsky.app/profile/kkvale.bsky.social)
