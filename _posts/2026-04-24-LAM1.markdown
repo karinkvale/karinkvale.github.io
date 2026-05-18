@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "IPCC Lead Author of 2027 IPCC Methodology Report on Carbon Dioxide Removal Technologies, Carbon Capture, Utilization and Storage for National Greenhouse Gas Inventories Meeting in Rome, Italy"
-date:   2026-24-04 07:00:21 +0200
+date:   2026-04-24 07:00:21 +0200
 categories: jekyll update
 ---
 ABOR attended the Lead Author Meeting for the latest IPCC Methology Report on CDR-CCUS in Rome, Italy. 
